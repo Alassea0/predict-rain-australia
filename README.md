@@ -13,12 +13,12 @@ The dataset includes 23 columns pertaining to the weather of a given day, its lo
 
 ## Models
 ### Classical Models
-Logistic Regression 
-Ranfom Forest Classifier
+1. Logistic Regression 
+2. Ranfom Forest Classifier
 
 ### Neural Models
-Binary Classification Model
-Simple recurrent neural network (RNN)
+1. Binary Classification Model
+2. Simple recurrent neural network (RNN)
 
 ## Dependencies
 imbalanced-learn

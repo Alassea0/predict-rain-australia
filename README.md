@@ -17,7 +17,8 @@ Logistic Regression
 Ranfom Forest Classifier
 
 ### Neural Models
-RNN
+Binary Classification Model
+Simple recurrent neural network (RNN)
 
 ## Dependencies
 imbalanced-learn

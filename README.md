@@ -17,8 +17,8 @@ The dataset includes 23 columns pertaining to the weather of a given day, its lo
 2. Ranfom Forest Classifier
 
 ### Neural Models
-1. Binary Classification Model
-2. Simple recurrent neural network (RNN)
+1. Simple Recurrent Neural Network (RNN)
+2. Binary Classification Model
 
 ## Dependencies
 imbalanced-learn

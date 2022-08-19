@@ -22,4 +22,5 @@ The dataset includes 23 columns pertaining to the weather of a given day, its lo
 
 ## Dependencies
 imbalanced-learn
+
 python 3.8.12
